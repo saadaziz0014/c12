@@ -35,7 +35,6 @@ export default function Home() {
     }
     const res = await fetch(`/api/calc?date=${date}`);
     let data = await res.json();
-    console.log(data);
     setData(data);
   };
   return (
