@@ -30,18 +30,18 @@ const calculateTeight = (date) => {
   let rightBottom = [];
   let bottomLeft = [];
   for (let i = 0; i < dateArr.length; i += 2) {
-    leftTop = leftTop.concat(vertical[dateArr[i]][dateArr[i + 1]]);
+    leftTop = leftTop.concat(vertical[9 - dateArr[i]][9 - dateArr[i + 1]]);
   }
   for (let i = 0; i < dateArr.length; i += 2) {
-    topRight = topRight.concat(vertical[9 - dateArr[i + 1]][dateArr[i]]);
+    topRight = topRight.concat(vertical[dateArr[i + 1]][9 - dateArr[i]]);
   }
   for (let i = 0; i < dateArr.length; i += 2) {
     rightBottom = rightBottom.concat(
-      vertical[9 - dateArr[i]][9 - dateArr[i + 1]]
+      vertical[dateArr[i]][dateArr[i + 1]]
     );
   }
   for (let i = 0; i < dateArr.length; i += 2) {
-    bottomLeft = bottomLeft.concat(vertical[dateArr[i + 1]][9 - dateArr[i]]);
+    bottomLeft = bottomLeft.concat(vertical[9 - dateArr[i + 1]][dateArr[i]]);
   }
   return {
     leftTop,

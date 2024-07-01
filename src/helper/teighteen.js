@@ -12,7 +12,7 @@ let vertical = [
     ['CR', 'CQ', 'CP', 'CO', 'CN', 'CM', 'CL', 'CK', 'CJ', 'CI', 'CH', 'CG', 'CF', 'CE', 'CD', 'CC'],
     ['CB', 'CA', 'BZ', 'BY', 'BX', 'BW', 'BV', 'BU', 'BT', 'BS', 'BR', 'BQ', 'BP', 'BO', 'BN', 'BM'],
     ['BL', 'BK', 'BJ', 'BI', 'BH', 'BG', 'BF', 'BE', 'BD', 'BC', 'BB', 'BA', 'AZ', 'AY', 'AX', 'AW'],
-    ['AV', 'AU', 'AT', 'AS', 'AR', 'AQ', 'AP', 'AO', 'AN', 'AM', 'AL', 'AK', 'AJ', 'AI', 'AH', 'AG'],
+    ['AV', 'AU', 'AT', 'AS', 'AR', 'AQ', 'AP', 'AO', 'AN', 'AM', 'AL', 'AK', 'AJ', 'AI', 'AH', 'GA'],
     ['AF', 'AE', 'AD', 'AC', 'AB', 'AA', 'Z', 'Y', 'X', 'W', 'V', 'U', 'T', 'S', 'R', 'Q'],
     ['P', 'O', 'N', 'M', 'L', 'K', 'J', 'I', 'H', 'G', 'F', 'E', 'D', 'C', 'B', 'A']
 
