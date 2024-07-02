@@ -6,7 +6,7 @@ let vertical = [
     ['TM', 'TL', 'TK', 'TJ', 'TI', 'TH', 'TG', 'TF', 'TE', 'TD', 'TC', 'TB', 'TA', 'TN', 'TO', 'TP', 'TQ', 'TR', 'TS', 'TT', 'TU', 'TV', 'TW', 'TX', 'TY', 'TZ'],
     ['SM', 'SL', 'SK', 'SJ', 'SI', 'SH', 'SG', 'SF', 'SE', 'SD', 'SC', 'SB', 'SA', 'SZ', 'SY', 'SX', 'SW', 'SV', 'SU', 'ST', 'SS', 'SR', 'SQ', 'SP', 'SO', 'SN'],
     ['RM', 'RL', 'RK', 'RJ', 'RI', 'RH', 'RG', 'RF', 'RE', 'RD', 'RC', 'RB', 'RA', 'RN', 'RO', 'RP', 'RQ', 'RR', 'RS', 'RT', 'RU', 'RV', 'RW', 'RX', 'RY', 'RZ'],
-    ['QM', 'QL', 'QK', 'QJ', 'QI', 'QH', 'QG', 'QF', 'QE', 'QD', 'QC', 'QB', 'QA', 'QZ', 'QY', 'QX', 'QW' 'QV', 'QU', 'QT', 'QS', 'QR', 'QQ', 'QP', 'QO', 'QN'],
+    ['QM', 'QL', 'QK', 'QJ', 'QI', 'QH', 'QG', 'QF', 'QE', 'QD', 'QC', 'QB', 'QA', 'QZ', 'QY', 'QX', 'QW', 'QV', 'QU', 'QT', 'QS', 'QR', 'QQ', 'QP', 'QO', 'QN'],
     ['PM', 'PL', 'PK', 'PJ', 'PI', 'PH', 'PG', 'PF', 'PE', 'PD', 'PC', 'PB', 'PA', 'PN', 'PO', 'PP', 'PQ', 'PR', 'PS', 'PT', 'PU', 'PV', 'PW', 'PX', 'PY', 'PZ'],
     ['OM', 'OL', 'OK', 'OJ', 'OI', 'OH', 'OG', 'OF', 'OE', 'OD', 'OC', 'OB', 'OA', 'OZ', 'OY', 'OX', 'OW' 'OV', 'OU', 'OT', 'OS', 'OR', 'OQ', 'OP', 'OO', 'ON'],
     ['NM', 'NL', 'NK', 'NJ', 'NI', 'NH', 'NG', 'NF', 'NE', 'ND', 'NC', 'NB', 'NA', 'NN', 'NO', 'NP', 'NQ', 'NR', 'NS', 'NT', 'NU', 'NV', 'NW', 'NX', 'NY', 'NZ'],
