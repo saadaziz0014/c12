@@ -1,3 +1,5 @@
+
+
 let vertical = [
     ['XM', 'XL', 'XK', 'XJ', 'XI', 'XH', 'XG', 'XF', 'XE', 'XD', 'XC', 'XB', 'XA', 'XN', 'XO', 'XP', 'XQ', 'XR', 'XS', 'XT', 'XU', 'XV', 'XW', 'XX', 'XY', 'XZ'],
     ['WM', 'WL', 'WK', 'WJ', 'WI', 'WH', 'WG', 'WF', 'WE', 'WD', 'WC', 'WB', 'WA', 'WZ', 'WY', 'WX', 'WW', 'WV', 'WU', 'WT', 'WS', 'WR', 'WQ', 'WP', 'WO', 'WN'],
