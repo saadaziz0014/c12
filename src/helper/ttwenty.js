@@ -8,7 +8,7 @@ let vertical = [
     ['RM', 'RL', 'RK', 'RJ', 'RI', 'RH', 'RG', 'RF', 'RE', 'RD', 'RC', 'RB', 'RA', 'RN', 'RO', 'RP', 'RQ', 'RR', 'RS', 'RT', 'RU', 'RV', 'RW', 'RX', 'RY', 'RZ'],
     ['QM', 'QL', 'QK', 'QJ', 'QI', 'QH', 'QG', 'QF', 'QE', 'QD', 'QC', 'QB', 'QA', 'QZ', 'QY', 'QX', 'QW', 'QV', 'QU', 'QT', 'QS', 'QR', 'QQ', 'QP', 'QO', 'QN'],
     ['PM', 'PL', 'PK', 'PJ', 'PI', 'PH', 'PG', 'PF', 'PE', 'PD', 'PC', 'PB', 'PA', 'PN', 'PO', 'PP', 'PQ', 'PR', 'PS', 'PT', 'PU', 'PV', 'PW', 'PX', 'PY', 'PZ'],
-    ['OM', 'OL', 'OK', 'OJ', 'OI', 'OH', 'OG', 'OF', 'OE', 'OD', 'OC', 'OB', 'OA', 'OZ', 'OY', 'OX', 'OW' 'OV', 'OU', 'OT', 'OS', 'OR', 'OQ', 'OP', 'OO', 'ON'],
+    ['OM', 'OL', 'OK', 'OJ', 'OI', 'OH', 'OG', 'OF', 'OE', 'OD', 'OC', 'OB', 'OA', 'OZ', 'OY', 'OX', 'OW', 'OV', 'OU', 'OT', 'OS', 'OR', 'OQ', 'OP', 'OO', 'ON'],
     ['NM', 'NL', 'NK', 'NJ', 'NI', 'NH', 'NG', 'NF', 'NE', 'ND', 'NC', 'NB', 'NA', 'NN', 'NO', 'NP', 'NQ', 'NR', 'NS', 'NT', 'NU', 'NV', 'NW', 'NX', 'NY', 'NZ'],
     ['MM', 'ML', 'MK', 'MJ', 'MI', 'MH', 'MG', 'MF', 'ME', 'MD', 'MC', 'MB', 'MA', 'MZ', 'MY', 'MX', 'MW', 'MV', 'MU', 'MT', 'MS', 'MR', 'MQ', 'MP', 'MO', 'MN'],
     ['M', 'L', 'K', 'J', 'I', 'H', 'G', 'F', 'E', 'D', 'C', 'B', 'A', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'],
